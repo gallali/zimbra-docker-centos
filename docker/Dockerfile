@@ -4,7 +4,7 @@
 # Created by gallai
 #################################################################
 FROM centos:7
-#MAINTAINER gallali <gallali12.og@gmail.com>
+MAINTAINER gallali <gallali12.og@gmail.com>
 
 RUN yum update -y --nogpgcheck && yum install -y --nogpgcheck \
   wget \
