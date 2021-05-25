@@ -1,7 +1,7 @@
 #################################################################
 # Dockerfile to build Zimbra Collaboration 8.8 container images
 # Based on CentOS 7
-# Created by gallai
+# Created by gallali
 #################################################################
 FROM centos:7
 MAINTAINER gallali <gallali12.og@gmail.com>
